@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
 
-<!--
-**Maiconsantos88/Maiconsantos88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou **Maicon André do Amaral Santos** 👋
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também estudante de **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAC**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho foco em **JavaScript** e sou apaixonado por tecnologia, sempre buscando aprender, evoluir e desenvolver soluções práticas.
+
+## 🚀 Atualmente estou focado em:
+- Aprimorar minhas habilidades em JavaScript
+- Desenvolvimento de aplicações web
+- Boas práticas de programação
+
+## 🛠️ Tecnologias:
+- JavaScript (ES6+)
+- Node.js
+- HTML & CSS
+- Git & GitHub
+
+## 💡 Interesses:
+- Desenvolvimento Web (Frontend e Backend)
+- Criação de APIs
+- Tecnologia e inovação
+
+## 🎯 Objetivo:
+Busco minha primeira oportunidade como desenvolvedor para ganhar experiência e crescer na área de tecnologia.
+
+## 📫 Contato:
+- GitHub: https://github.com/Maiconsantos88
+- LinkedIn: linkedin.com/in/maiconsantos46
+
+---
+
+✨ Sempre aprendendo e evoluindo.
