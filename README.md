@@ -1,37 +1,62 @@
-# 👨‍💻 Sobre mim
+# 👨‍💻 Maicon André do Amaral Santos
 
-Olá! Eu sou **Maicon André do Amaral Santos** 👋
+Olá! 👋 Seja bem-vindo ao meu perfil!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também estudante de **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAC**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também aluno do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAC**.
 
-Tenho foco em Desenvolvimento de Sistemas e Desenvolvimento Web, com ênfase em tecnologias modernas do ecossistema JavaScript.
-
-## 🚀 Atualmente estou focado em:
-- Aprimorar minhas habilidades em JavaScript
-- Desenvolvimento de aplicações web
-- Boas práticas de programação
-- Versionamento de código e trabalho em equipe com Git e GitHub
-
-## 🛠️ Tecnologias:
-- JavaScript (ES6+)
-- Node.js
-- HTML & CSS
-- Git & GitHub
-
-## 💡 Interesses:
-- Desenvolvimento Web (Frontend e Backend)
-- Criação de APIs
-- Tecnologia e inovação
-
-## 🎯 Objetivo:
-Busco minha primeira oportunidade como desenvolvedor para ganhar experiência e crescer na área de tecnologia.
-
-## 📫 Contato:
-- GitHub: https://github.com/Maiconsantos88
-- LinkedIn: linkedin.com/in/maiconsantos46
-
-🚀 Testando deploy automático
+Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando aplicar meus conhecimentos em projetos práticos e soluções reais.
 
 ---
 
-✨ Sempre aprendendo e evoluindo.
+## 🚀 Atualmente estou focado em:
+- Aprimorar minhas habilidades em **JavaScript**
+- Desenvolvimento de aplicações web (**Frontend e Backend**)
+- Boas práticas de programação (**Clean Code**)
+- Versionamento de código com **Git & GitHub**
+- Trabalho em equipe e organização de código
+
+---
+
+## 🛠️ Tecnologias e Ferramentas:
+- JavaScript (ES6+)
+- Node.js
+- HTML5 & CSS3
+- Git & GitHub
+- VS Code
+
+---
+
+## 🧠 Habilidades:
+- Versionamento de código com Git (add, commit, push)
+- Criação de scripts Bash para automação de tarefas
+- Automação de deploy (scripts)
+- Boas práticas de commits (Conventional Commits)
+
+---
+
+## 💡 Interesses:
+- Desenvolvimento Web (Frontend e Backend)
+- Criação de APIs REST
+- Projetos práticos para portfólio
+- Tecnologia e inovação
+
+---
+
+## 📌 Projetos (em construção 🚧)
+Atualmente estou desenvolvendo projetos práticos para aplicar meus conhecimentos.  
+Em breve novos projetos serão adicionados aqui no GitHub.
+
+---
+
+## 🎯 Objetivo:
+Busco minha **primeira oportunidade como Desenvolvedor Júnior**, onde eu possa aprender na prática, contribuir com o time e evoluir constantemente na área de tecnologia.
+
+---
+
+## 📫 Contato:
+- GitHub: https://github.com/Maiconsantos88  
+- LinkedIn: https://linkedin.com/in/maiconsantos46  
+
+---
+
+✨ *Sempre aprendendo, evoluindo e construindo meu futuro na tecnologia.* 🚀
