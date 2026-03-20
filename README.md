@@ -10,6 +10,7 @@ Tenho foco em Desenvolvimento de Sistemas e Desenvolvimento Web, com ênfase em 
 - Aprimorar minhas habilidades em JavaScript
 - Desenvolvimento de aplicações web
 - Boas práticas de programação
+- Versionamento de código e trabalho em equipe com Git e GitHub
 
 ## 🛠️ Tecnologias:
 - JavaScript (ES6+)
