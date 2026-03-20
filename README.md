@@ -30,6 +30,8 @@ Busco minha primeira oportunidade como desenvolvedor para ganhar experiência e 
 - GitHub: https://github.com/Maiconsantos88
 - LinkedIn: linkedin.com/in/maiconsantos46
 
+🚀 Testando deploy automático
+
 ---
 
 ✨ Sempre aprendendo e evoluindo.
