@@ -4,7 +4,7 @@ Olá! Eu sou **Maicon André do Amaral Santos** 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também estudante de **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAC**.
 
-Tenho foco em **JavaScript** e sou apaixonado por tecnologia, sempre buscando aprender, evoluir e desenvolver soluções práticas.
+Tenho foco em Desenvolvimento de Sistemas e Desenvolvimento Web, com ênfase em tecnologias modernas do ecossistema JavaScript.
 
 ## 🚀 Atualmente estou focado em:
 - Aprimorar minhas habilidades em JavaScript
