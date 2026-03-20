@@ -14,6 +14,8 @@ Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando 
 - Boas práticas de programação (**Clean Code**)
 - Versionamento de código com **Git & GitHub**
 - Trabalho em equipe e organização de código
+- Aprendizado de **Banco de Dados (SQL)**
+- Desenvolvimento e consumo de **APIs REST**
 
 ---
 
@@ -23,6 +25,23 @@ Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando 
 - HTML5 & CSS3
 - Git & GitHub
 - VS Code
+
+---
+
+## 📚 Áreas de Estudo e Tecnologias
+
+### 🌐 Front-end:
+- HTML5
+- CSS3
+- JavaScript
+
+### ⚙️ Back-end:
+- JavaScript (Node.js)
+- Python (em aprendizado)
+- Java (em aprendizado)
+
+### 🗄️ Banco de Dados:
+- SQL (em aprendizado)
 
 ---
 
