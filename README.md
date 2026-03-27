@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e 
 
 Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando aplicar meus conhecimentos em projetos práticos e soluções reais.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=gotham)
 ---
 
 ## 🚀 Atualmente estou focado em:
