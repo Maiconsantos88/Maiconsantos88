@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e 
 
 Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando aplicar meus conhecimentos em projetos práticos e soluções reais.
 
-![Maicon André do Amaral Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 ---
 
 ## 🚀 Atualmente estou focado em:
