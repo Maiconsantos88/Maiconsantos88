@@ -6,13 +6,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e 
 
 Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando aplicar meus conhecimentos em projetos práticos e soluções reais.
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=gotham)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Maiconsantos88&show_icons=true&theme=tokyonight)
 
-## 📈 Linguagens mais usadas
+![GitHub Streak](https://streak-stats.demolab.com?user=Maiconsantos88&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsantos88&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maiconsantos88&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Atualmente estou focado em:
