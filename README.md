@@ -1,5 +1,14 @@
 # 👨‍💻 Maicon André do Amaral Santos
 
+<!-- snake -->
+<div align="center">
+  <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  </a>
+</div>
+
+<br>
+
 Olá! 👋 Seja bem-vindo ao meu perfil!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também aluno do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAC**.
