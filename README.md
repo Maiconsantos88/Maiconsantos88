@@ -23,13 +23,13 @@ Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando 
 ---
 
 ## 🚀 Atualmente estou focado em:
+
+- Desenvolvimento de interfaces com **HTML e CSS**
 - Aprimorar minhas habilidades em **JavaScript**
-- Desenvolvimento de aplicações web (**Frontend e Backend**)
+- Aprendendo **C++**, com foco em lógica de programação
 - Boas práticas de programação (**Clean Code**)
 - Versionamento de código com **Git & GitHub**
-- Trabalho em equipe e organização de código
-- Aprendizado de **Banco de Dados (SQL)**
-- Desenvolvimento e consumo de **APIs REST**
+- Organização de código e boas práticas de desenvolvimento
 
 ---
 
@@ -49,36 +49,32 @@ Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando 
 
 ## 📚 Áreas de Estudo e Tecnologias
 
+### 💻 Linguagens:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ### 🌐 Front-end:
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-### ⚙️ Back-end:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### 🗄️ Banco de Dados:
-- SQL (em aprendizado)
 
 ---
 
 ## 🧠 Habilidades:
+
+- Lógica de programação com C++
+- Desenvolvimento de interfaces com HTML e CSS
+- Lógica básica com JavaScript
 - Versionamento de código com Git (add, commit, push)
-- Criação de scripts Bash para automação de tarefas
-- Automação de deploy (scripts)
-- Boas práticas de commits (Conventional Commits)
+- Organização de código e boas práticas
 
 ---
 
 ## 💡 Interesses:
-- Desenvolvimento Web (Frontend e Backend)
-- Criação de APIs REST
+
+- Desenvolvimento Web (Frontend)
+- Interesse em Backend (aprendizado futuro)
 - Projetos práticos para portfólio
 - Tecnologia e inovação
-
----
 
 ## 📌 Projetos (em construção 🚧)
 Atualmente estou desenvolvendo projetos práticos para aplicar meus conhecimentos.  
