@@ -3,12 +3,9 @@
 <!-- Snake Animation -->
 <div align="center">
 
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Maiconsantos88/Maiconsantos88/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-<br>
 
 Olá! 👋 Seja bem-vindo ao meu perfil!
 
