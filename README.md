@@ -1,12 +1,13 @@
 # 👨‍💻 Maicon André do Amaral Santos
 
-<!-- snake -->
+<!-- Snake Animation -->
 <div align="center">
-  <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
 
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake animation" />
+  </a>
+
+</div>
 <br>
 
 Olá! 👋 Seja bem-vindo ao meu perfil!
