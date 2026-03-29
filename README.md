@@ -11,7 +11,7 @@ Olá! 👋 Seja bem-vindo ao meu perfil!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNISINOS** e também aluno do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAC**.
 
-Tenho foco em **Desenvolvimento Web** e estou em constante evolução, buscando aplicar meus conhecimentos em projetos práticos e soluções reais.
+Atualmente, tenho foco em **Desenvolvimento Web**, estudando **HTML, CSS, JavaScript** e **C++**, aplicando meus conhecimentos em projetos práticos e evoluindo continuamente na área de tecnologia.
 
 ## 📊 Stats
 
